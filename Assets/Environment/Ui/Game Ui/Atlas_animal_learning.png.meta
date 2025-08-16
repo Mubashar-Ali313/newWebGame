@@ -1,0 +1,1147 @@
+fileFormatVersion: 2
+guid: 7a52408a0c3f2ff4e8c8b4f927f0afda
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_animal_learning_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3637
+        width: 430
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799704051cb63074091d674e08fdbc7f
+      internalID: 920341578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3637
+        width: 460
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3857e02116ae81248a1a5e2818cc55ed
+      internalID: 719873391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_2
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 3033
+        width: 728
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a0a55739513a489f6ace0eb27c2de
+      internalID: 409134255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3117
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471e60ebc59f3b4c89ae8d1d8d8dfd8
+      internalID: -296470439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3117
+        width: 252
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996ee838db24d44589178acaa309c64
+      internalID: 391508103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3117
+        width: 250
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cdf38b847f0e344811cda6cacfc682
+      internalID: 1279160030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3117
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90045bb706d4bce4eab0931b5197e265
+      internalID: -1400939226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 3117
+        width: 250
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c42ef57d8292a4088b807d108a02dd
+      internalID: 2013466524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_8
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 3118
+        width: 246
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920ada6493abfb4b97d38d468c06349
+      internalID: 1956587924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_9
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3119
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ca99f0af44b74a9c7c4ce4658c07c
+      internalID: -697100320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2845
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddba16889ec1f7448ae7b1017a43715
+      internalID: 2027561762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2845
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a00cb7356d2e74e9da81b768a1e0b5
+      internalID: -465618598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2843
+        width: 250
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61862ed750a4a624585bf839ad801eef
+      internalID: -649273528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2843
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d18fbf28574614d98e12b54dbc3e3c
+      internalID: 1113528954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_14
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2845
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c420798a076fcc1459c615883f858055
+      internalID: -740163994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2843
+        width: 248
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6836d1f63e280294aaf22a319391f28d
+      internalID: 1455070910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_16
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2845
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec1a5d891b94547bdd098554591cbc
+      internalID: 1499685548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_17
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2505
+        width: 294
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878ace6ad6c7aa458cca1c6fcdab530
+      internalID: 420546660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_18
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 2509
+        width: 294
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc8074c1394e34fa82886c9cb85a12
+      internalID: 244670521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2571
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cdcaa31ce55d45b52f8756acada3d
+      internalID: 152658389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2569
+        width: 254
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8efb107cdcdd6f4fa5c0888c350cdb6
+      internalID: -443037847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_21
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2569
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70e1dc359fb8d46af73d838442b18f
+      internalID: 106004725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_22
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2571
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d64a53c0e6f1c45841bc4c89eda4ac
+      internalID: -45634332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_23
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2571
+        width: 248
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bb85edb23cee45b18533a637ec3c6
+      internalID: 86185089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_24
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2571
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8339560fa2de147b59fc9d09860cec
+      internalID: 195291937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_25
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2571
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c3874f3f35f04c860ca070fa73e94
+      internalID: -909279293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_26
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1913
+        width: 716
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435d6050272cfa419eea53192e8120d
+      internalID: 1047530531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2295
+        width: 252
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0776035269b7904d8bcd931c478482e
+      internalID: -862075963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2295
+        width: 252
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb8674917c17240a57890c11f67ece
+      internalID: 668656456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2295
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e185ed7c8d8248bb25449cc417493
+      internalID: 1624160167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_30
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2295
+        width: 252
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b3d14e7b2cb84a90def1e2d20a946
+      internalID: 616031134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_31
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2295
+        width: 250
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ab8025d650b34486bfa17529177fe
+      internalID: 306329907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_32
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1707
+        width: 466
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f92f1f2565074bbe7d71e4a25fc4c
+      internalID: 987581795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_33
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1793
+        width: 220
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1b2b860954ad42a8563d4c456114f
+      internalID: -835658573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_34
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1361
+        width: 654
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10a6993aac19b04bb52107b46872020
+      internalID: 1260018467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1769
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8baf254fe80246ba2311c1098fa9d
+      internalID: 1873880185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_36
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 971
+        width: 618
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57542ddb4bac74e81713c9f51e2643
+      internalID: -315678207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1375
+        width: 618
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6fe67b45450a41bd98e40340f6096
+      internalID: -934164257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_38
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 683
+        width: 536
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398124cfbd8584b4586231e83e7792de
+      internalID: 1897213958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_39
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1015
+        width: 524
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a8ead8d619b447995897e9ac383b4
+      internalID: -336231133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_40
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 735
+        width: 248
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf1475a2367944295893cdeb7fb71b
+      internalID: -1237508226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_41
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 735
+        width: 235
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64031da7518edf1409a3f76775f945e6
+      internalID: 99584084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_42
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 115
+        width: 592
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a46f23a85e9a40a7e2b1ce7fa362f
+      internalID: 1262293914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_43
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 543
+        width: 512
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57165893a93df9b4286e576372533699
+      internalID: 2099136430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_44
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 461
+        width: 248
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905cf854efb280645b84b9227163d227
+      internalID: -518216603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_animal_learning_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 273
+        width: 1134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da99a038e38594eb402209c9128198
+      internalID: -1153802611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 434c5850a33f22f43bde58ef895ad0f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_animal_learning_0: 920341578
+      Atlas_animal_learning_1: 719873391
+      Atlas_animal_learning_10: 2027561762
+      Atlas_animal_learning_11: -465618598
+      Atlas_animal_learning_12: -649273528
+      Atlas_animal_learning_13: 1113528954
+      Atlas_animal_learning_14: -740163994
+      Atlas_animal_learning_15: 1455070910
+      Atlas_animal_learning_16: 1499685548
+      Atlas_animal_learning_17: 420546660
+      Atlas_animal_learning_18: 244670521
+      Atlas_animal_learning_19: 152658389
+      Atlas_animal_learning_2: 409134255
+      Atlas_animal_learning_20: -443037847
+      Atlas_animal_learning_21: 106004725
+      Atlas_animal_learning_22: -45634332
+      Atlas_animal_learning_23: 86185089
+      Atlas_animal_learning_24: 195291937
+      Atlas_animal_learning_25: -909279293
+      Atlas_animal_learning_26: 1047530531
+      Atlas_animal_learning_27: -862075963
+      Atlas_animal_learning_28: 668656456
+      Atlas_animal_learning_29: 1624160167
+      Atlas_animal_learning_3: -296470439
+      Atlas_animal_learning_30: 616031134
+      Atlas_animal_learning_31: 306329907
+      Atlas_animal_learning_32: 987581795
+      Atlas_animal_learning_33: -835658573
+      Atlas_animal_learning_34: 1260018467
+      Atlas_animal_learning_35: 1873880185
+      Atlas_animal_learning_36: -315678207
+      Atlas_animal_learning_37: -934164257
+      Atlas_animal_learning_38: 1897213958
+      Atlas_animal_learning_39: -336231133
+      Atlas_animal_learning_4: 391508103
+      Atlas_animal_learning_40: -1237508226
+      Atlas_animal_learning_41: 99584084
+      Atlas_animal_learning_42: 1262293914
+      Atlas_animal_learning_43: 2099136430
+      Atlas_animal_learning_44: -518216603
+      Atlas_animal_learning_45: -1153802611
+      Atlas_animal_learning_5: 1279160030
+      Atlas_animal_learning_6: -1400939226
+      Atlas_animal_learning_7: 2013466524
+      Atlas_animal_learning_8: 1956587924
+      Atlas_animal_learning_9: -697100320
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
